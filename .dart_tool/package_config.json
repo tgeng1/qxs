@@ -56,6 +56,18 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "date_format",
+      "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/date_format-1.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "dio",
+      "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/dio-3.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///Users/denkou/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -66,6 +78,24 @@
       "rootUri": "file:///Users/denkou/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "2.2"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/denkou/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "fluttertoast",
+      "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-3.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/http_parser-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
     },
     {
       "name": "image",
@@ -92,6 +122,24 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "path_provider",
+      "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider-1.6.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_macos",
+      "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_macos-0.0.4+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_platform_interface-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "pedantic",
       "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/pedantic-1.8.0+1",
       "packageUri": "lib/",
@@ -104,10 +152,46 @@
       "languageVersion": "2.4"
     },
     {
+      "name": "platform",
+      "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/platform-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "1.24"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/plugin_platform_interface-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "quiver",
       "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/quiver-2.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.0"
+    },
+    {
+      "name": "shared_preferences",
+      "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.7+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_macos",
+      "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_macos-0.0.1+9",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_platform_interface",
+      "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_platform_interface-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shared_preferences_web",
+      "rootUri": "file:///Users/denkou/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_web-0.1.2+7",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
     },
     {
       "name": "sky_engine",
@@ -176,7 +260,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-04-15T07:27:24.778119Z",
+  "generated": "2020-05-21T06:48:33.945271Z",
   "generator": "pub",
   "generatorVersion": "2.7.2"
 }

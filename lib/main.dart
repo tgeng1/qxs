@@ -1,17 +1,8 @@
 import 'package:flutter/material.dart';
-import 'route/index.dart';
+import 'package:qxs/app.dart';
+import 'package:qxs/utils/common.dart';
 
-void main() => runApp(MyApp());
-
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'QXS',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: MyHomePage(title: '宝藏'),
-    );
-  }
+void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  Global.init().then((e) => runApp(new App()));
 }

@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import './index.dart';
+
 class AddCard extends StatefulWidget {
   AddCard({Key key, this.title}) : super(key: key);
   final String title;
@@ -25,9 +25,7 @@ class _AddCardState extends State<AddCard> {
       body: RaisedButton(
         child: Text('返回'),
         onPressed: () {
-          Navigator.pushAndRemoveUntil(context, MaterialPageRoute(builder: (context) {
-            return MyHomePage(title: '9999',);
-          }), (route) => route == null);
+          Navigator.pop(context);
         },
       )
     );
